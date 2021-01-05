@@ -1,4 +1,4 @@
 dddddddzdy.txt
-<<<<<<< HEAD
-www
 bbb
+aaa
+
